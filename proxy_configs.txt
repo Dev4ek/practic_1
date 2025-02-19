@@ -1,1 +1,1 @@
-vless://b7fc6242-e98a-11ef-91b7-0242ac120009@178.130.41.104:433?flow=xtls-rprx-vision&fp=chrome&pbk=ll2yAAR3cx_YbiZQ1FoClWvZkPOivW2bTlrcJmpfaBs&security=reality&sid=e3c00056&sni=web.telegram.org&spx=%2FSTndlLawzaELUA4&type=tcp#Cutenetow-imba-vpn-tyda-suda-52
+vless://b7fc6242-e98a-11ef-91b7-0242ac120009@178.130.41.104:433?flow=xtls-rprx-vision&fp=chrome&pbk=ll2yAAR3cx_YbiZQ1FoClWvZkPOivW2bTlrcJmpfaBs&security=reality&sid=e3c00056&sni=web.telegram.org&spx=%2FSTndlLawzaELUA4&type=tcp#Cutenedddddddddddddddddd
